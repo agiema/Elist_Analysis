@@ -46,6 +46,11 @@ Despite non-loyalty members generating higher total sales revenue each year, loy
 
 Digging deeper into the total sales revenue and AOV by loyalty membership. Both metrics perform better for non-loyalty customers than loyalty customers within the first 2 years and 1-2 quarters into 2021. After that, the sales revenue of loyalty members surpasses that of non-loyalty members in Q2 of 2021, and AOV does the same in Q3 of 2021. However, by Q4 of 2022 loyalty member’s sales revenue and AOV dips back to being below that of non-loyalty members.
 
+### Time to purchase between Loyalty and Non-Loyalty Members
+<img src="https://github.com/user-attachments/assets/d794cd56-49e8-46c5-ab2e-63a734087a01" alt="image" width="450" />
+
+Looking into the duration between the time it took for these two types of users to make their first purchase after creating an account, loyalty customers take almost 30% less time to make a purchase, with 1.6 months after account creations as opposed to 2.3 months for non-loyaty customers
+
 ## Product Performance and Refund Rates
 ### Overall Product Performance and Refund Rates
 <img src="https://github.com/user-attachments/assets/311d51a2-02e1-4733-b0c0-208d05f3863e" alt="image" width="600" />
@@ -55,6 +60,7 @@ Across all years, products such as the gaming monitor, Apple Airpods and Macbook
 <img src="https://github.com/user-attachments/assets/9585b0cb-0eb9-4fca-bc1f-5013ec2d55e8" alt="image" width="500" />
 
 Overall, refund rates in 2019-2020 were highest with an average of 6% and 9%, then dips back down to 4% in 2021 and 0% in 2022. 
+
 Focusing on individual years, there was a refund rate of 18% and 17% for Macbook Airs and ThinkPad Laptops respectively in 2019. This totaled about $179k in estimated refunds, amounting to about 50% of the total estimated refund value that year. Moreover, although refund rates for the gaming monitor (7%) and Apple Airpods (6%) were low, their estimated refund value totaled about $177k due to a high refund count, amounting to about 48.4% of total estimated refund value.
 
 The following year in 2020, saw even higher refund rates amounting to about 17% for both Macbook Airs and Thinkpad Laptops, and 10%-11% for gaming monitors, Apple Airpods, and iPhones. The Macbook Airs and Thinkpad Laptops totaled about $711k in estimated refunds, 54% of total estimated refund value. With a higher refund rate than last year, the gaming monitors and Apple Airpods totaled about $585k in estimated refunds, 45% of total estimated refund value. 
@@ -64,6 +70,12 @@ In 2021, refund rates start to drop, Macbook Airs and Thinkpad Laptops have a re
 In 2022, there are no refunds at all.
 
 Between 2019 – 2022, estimated refunds take approximately 9% of total revenue in 2019, 13% of total revenue in 2020, 11% of total revenue in 2021, and 0% of total revenue in 2022. This makes 2020, the year with the most estimated refund value in proportion to the total revenue.
+
+### Most popular products across each region
+<img src="https://github.com/user-attachments/assets/b2632efc-a05f-4412-abf0-fca5b58e5b45" alt="image" width="550" />
+<img src="https://github.com/user-attachments/assets/b01f639c-fe92-450f-83a7-d6e9a2bc0060" alt="image" width="500" />
+
+Across all years and regions, the Apple Airpods Headphones was the most ordered. Moreover, the Samsung Charging Pack as well as the 4k 27in gaming monitor were always either the second or third most ordered depending on each region.
 
 ### Refund Statistics of Apple Products
 <img src="https://github.com/user-attachments/assets/93cb3a07-a431-4ee8-b6ec-b8fd47dc42c5" alt="image" width="500" />
