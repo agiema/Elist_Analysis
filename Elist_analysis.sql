@@ -66,7 +66,33 @@ GROUP BY 1, 2, 3)
 
 SELECT *
 FROM product_rank
-WHERE order_rank = 1;
+WHERE order_rank = 1
+AND region IS NOT NULL;
+
+-- What were the top 3 products for each region?
+
+WITH region_orders AS(
+SELECT gl.region,
+      CASE WHEN o.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor'
+      ELSE o.product_name END AS cleaned_product_name,
+      COUNT(o.id) AS order_count
+FROM core.orders AS o
+LEFT JOIN core.customers AS c
+ON o.customer_id = c.id
+LEFT JOIN core.geo_lookup AS gl
+ON c.country_code = gl.country_code
+GROUP BY 1, 2),
+
+product_rank AS(
+SELECT *,
+      RANK() OVER (PARTITION BY region ORDER BY order_count DESC) AS order_rank
+FROM region_orders
+GROUP BY 1, 2, 3)
+
+SELECT *
+FROM product_rank
+WHERE order_rank <= 3
+AND region IS NOT NULL;
 
 -- How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
 SELECT CASE WHEN c.loyalty_program = 0 THEN 'Non Loyalty'
