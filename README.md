@@ -4,8 +4,14 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 ## ERD Diagram
 <img src="https://github.com/user-attachments/assets/4eebc0ea-409f-4e2b-abd4-70697f189bac" alt="image" width="800" />
 
+# Insights and Recommendation
+## Summary of Insights
+
+## Recommendations
+
+
 # In Depth Analysis
-## Overview
+## Yearly Trends
 <img src="https://github.com/user-attachments/assets/c241f463-fe53-4f0a-a4de-4a383859fb59" alt="image" width="325" />
 <img src="https://github.com/user-attachments/assets/0423e3ed-90ef-49a4-ac0f-b459f68ef8bf" alt="image" width="650" />
 
@@ -20,11 +26,13 @@ The decline in 2022 could be attributed to the easing of COVID restrictions, res
 <img src="https://github.com/user-attachments/assets/f2a6bb34-c7df-4102-8f8f-2836316faab1" alt="image" width="300" />
 
 Analyzing the monthly sales trends from 2019 to 2022 reveals some interesting patterns. From February to May, the monthly growth rates remain relatively steady albeit with slight fluctuations. However, June typically sees a slight dip, averaging -9% across the years.
+
 During the summer months (July to September), there is a consistent increase in sales, with September peaking at an average growth rate of 12.25%. Following this peak, October experiences a significant decline, with an average drop of -31%, which is the most pronounced decrease across all months.
+
 Sales usually bounce back significantly in December, often matching or exceeding September's peak, with an average growth rate of 21%. However, this growth is short-lived, as January sees a substantial drop, averaging -8%, indicating a sharp decline in sales right after the holiday season. This pattern reflects a common post-holiday slump in consumer spending.
 
 ## Loyalty Program
-### Overall Sales Revenue, AOV and Order Count between Loyalty and Non-Loyalty Members
+### Overall Sales Revenue, AOV and Order Count Trends between Loyalty and Non-Loyalty Members
 <img src="https://github.com/user-attachments/assets/e87de32f-1afb-4061-8f46-3a3c089d6c7d" alt="image" width="300" />
 <img src="https://github.com/user-attachments/assets/a9b8275f-b010-438f-b7ab-3e71f296eff9" alt="image" width="600" />
 
@@ -32,21 +40,29 @@ Of the first 2 years between 2019 - 2022, sales revenue accounting for non-loyal
 
 However, by 2021 – 2022, sales revenue, AOV and order count driven by loyalty members have caught up if not surpassed those who are non-loyalty members. For example, sales revenue was about $500k higher and order count was about 3000 more, despite a $10 AOV difference in 2021. In 2022, sales revenue was about $480k higher, order count was 650 more, and AOV was $31 more. Moreover, loyalty members make up approximately 42.2% of all customers.
 
-### Overall Product Performance between Loyalty and Non-Loyalty Members
-<img src="https://github.com/user-attachments/assets/5a1e7f20-4e9a-48ae-a126-2e041cec807c" alt="image" width="600" />
-
-Despite non-loyalty members generating higher total sales revenue each year, loyalty members consistently exhibit a higher average order value (AOV) across all products. Popular items among loyalty members, such as Apple AirPods, Bose SoundSport headphones, and Samsung webcams, contribute to their increased total sales revenue and order count. This suggests that loyalty members are more engaged and willing to spend, highlighting an opportunity to enhance loyalty programs and target these high-value customers more effectively.
-
-### Total Sales Revenue and AOV between Loyalty and Non-Loyalty Members
 <img src="https://github.com/user-attachments/assets/31fcd355-dbe8-4bd8-9590-92270eb89ff5" alt="image" width="420" />
 <img src="https://github.com/user-attachments/assets/f8780b90-e727-4059-abeb-21d64222d845" alt="image" width="400" />
 
-Digging deeper into the total sales revenue and AOV by loyalty membership. Both metrics perform better for non-loyalty customers than loyalty customers within the first 2 years and 1-2 quarters into 2021. After that, the sales revenue of loyalty members surpasses that of non-loyalty members in Q2 of 2021, and AOV does the same in Q3 of 2021. However, by Q4 of 2022 loyalty member’s sales revenue and AOV dips back to being below that of non-loyalty members.
+Here, both metrics perform better for non-loyalty customers than loyalty customers within the first 2 years and 1-2 quarters into 2021. After that, the sales revenue of loyalty members surpasses that of non-loyalty members in Q2 of 2021, and AOV does the same in Q3 of 2021. However, by Q4 of 2022 loyalty member’s sales revenue and AOV dips back to being below that of non-loyalty members.
 
-### Time to purchase between Loyalty and Non-Loyalty Members
+### Product Performance between Loyalty and Non-Loyalty Members
+<img src="https://github.com/user-attachments/assets/5a1e7f20-4e9a-48ae-a126-2e041cec807c" alt="image" width="600" />
+
+Despite non-loyalty members generating higher total sales revenue each year, loyalty members consistently exhibit a higher average order value (AOV) across all products. Popular items among loyalty members, such as Apple AirPods, 27 in 4K gaming monitor, Thinkpad Laptops and Samsung webcams, contribute to their increased total sales revenue and order count especially towards 2021 and 2022. This suggests that loyalty members are more engaged and willing to spend, highlighting an opportunity to enhance loyalty programs and target these high-value customers more effectively.
+
+### Time to purchase, ship and deliver between Loyalty and Non-Loyalty Members
 <img src="https://github.com/user-attachments/assets/d794cd56-49e8-46c5-ab2e-63a734087a01" alt="image" width="450" />
 
-Looking into the duration between the time it took for these two types of users to make their first purchase after creating an account, loyalty customers take almost 30% less time to make a purchase, with 1.6 months after account creations as opposed to 2.3 months for non-loyaty customers
+Looking into the duration between the time it took for these two types of users to make their first purchase after creating an account, loyalty customers take almost 30% less time to make a purchase, with 1.6 months after account creations as opposed to 2.3 months for non-loyaty customers.
+
+<img src="https://github.com/user-attachments/assets/ee19b318-8401-4b6e-af29-0d309b2c0b81" alt="image" width="450" />
+
+Between loyalty members and non-loyalty members, there seems to be no difference in the number of days to ship and deliver.
+
+### Member Count by Marketing Channel between Loyalty and Non-Loyalty Members
+<img src="https://github.com/user-attachments/assets/d9ada436-4147-40a2-879f-15de27bbc73c" alt="image" width="450" />
+
+A large proportion of Elist's customers come from the direct marketing channel, consisting of 82% of non loyalty members and 72% of loyalty members. The email marketing channel also drives a significant amount of traffic although much less than the direct marketing channel, consisting of 12% for non loyalty members and 24% of loyalty members
 
 ## Product Performance and Refund Rates
 ### Overall Product Performance and Refund Rates
