@@ -4,7 +4,8 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 ## ERD Diagram
 <img src="https://github.com/user-attachments/assets/4eebc0ea-409f-4e2b-abd4-70697f189bac" alt="image" width="800" />
 
-# Overview
+# In Depth Analysis
+## Overview
 <img src="https://github.com/user-attachments/assets/c241f463-fe53-4f0a-a4de-4a383859fb59" alt="image" width="325" />
 <img src="https://github.com/user-attachments/assets/0423e3ed-90ef-49a4-ac0f-b459f68ef8bf" alt="image" width="650" />
 
@@ -14,7 +15,6 @@ By 2022, revenue plummeted to $5 million, reflecting a -46% growth rate and near
 
 The decline in 2022 could be attributed to the easing of COVID restrictions, resulting in reduced screen time and subsequently lower sales. Alternatively, it may indicate a need to refresh our product offerings, warranting further investigation. Moving forward, the challenge lies in identifying strategies to regain the momentum captured during the peak years of 2020 and 2021, which will be crucial for our long-term growth trajectory.
 
-# Summary of Insights
 ## Seasonality
 <img src="https://github.com/user-attachments/assets/97b56984-c15a-40b4-8fe6-8feec7e98bd3" alt="image" width="350" />
 <img src="https://github.com/user-attachments/assets/f2a6bb34-c7df-4102-8f8f-2836316faab1" alt="image" width="300" />
