@@ -38,8 +38,8 @@ However, by 2021 – 2022, sales revenue, AOV and order count driven by loyalty 
 Despite non-loyalty members generating higher total sales revenue each year, loyalty members consistently exhibit a higher average order value (AOV) across all products. Popular items among loyalty members, such as Apple AirPods, Bose SoundSport headphones, and Samsung webcams, contribute to their increased total sales revenue and order count. This suggests that loyalty members are more engaged and willing to spend, highlighting an opportunity to enhance loyalty programs and target these high-value customers more effectively.
 
 ### Total Sales Revenue and AOV between Loyalty and Non-Loyalty Members
-<img src="https://github.com/user-attachments/assets/31fcd355-dbe8-4bd8-9590-92270eb89ff5" alt="image" width="470" />
-<img src="https://github.com/user-attachments/assets/f8780b90-e727-4059-abeb-21d64222d845" alt="image" width="450" />
+<img src="https://github.com/user-attachments/assets/31fcd355-dbe8-4bd8-9590-92270eb89ff5" alt="image" width="420" />
+<img src="https://github.com/user-attachments/assets/f8780b90-e727-4059-abeb-21d64222d845" alt="image" width="400" />
 
 Digging deeper into the total sales revenue and AOV by loyalty membership. Both metrics perform better for non-loyalty customers than loyalty customers within the first 2 years and 1-2 quarters into 2021. After that, the sales revenue of loyalty members surpasses that of non-loyalty members in Q2 of 2021, and AOV does the same in Q3 of 2021. However, by Q4 of 2022 loyalty member’s sales revenue and AOV dips back to being below that of non-loyalty members.
 
