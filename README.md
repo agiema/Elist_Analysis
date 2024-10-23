@@ -6,6 +6,30 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 
 # Insights and Recommendation
 ## Summary of Insights
+Yearly Trends
+-	Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
+
+Seasonality 
+-	There is generally an increase in sales during the summer months peaking in September and between holiday months of November and December. There is a steep drop in sales after the end of December and takes the biggest dip in February. Due to the pandemic, there is a steep increase in sales starting March 2020.
+
+Loyalty Program
+-	Loyalty program seems to be driving significant yearly growth with loyalty members driving 9% of total revenue in 2019, to about 55% of total revenue in 2022 
+-	As of 2022, loyalty members generate on average $31 more per order than non-loyalty members ($245 to $214 AOV)
+-	72% of all loyalty members come from the direct marketing channel and 24% from the email marketing channel.
+-	loyalty customers take almost 30% less time to make a purchase than non-loyalty customers
+-	There is no difference in shipping and delivery durations between both types of members
+
+Product Mix
+-	85% of total revenue accounting for 70% of all orders was driven by sales of 27in 4K gaming monitors, Apple Airpods Headphones and Macbook Air Laptops grossing approximately $24M across all years
+-	Samsung Charging Pack accounted for 20% of all orders
+-	Apple products account for 51% of total sale revenue and 49% of all orders showing Elist’s heavy reliance of Apple’s brand to drive revenue
+-	Apple Airpods Headphones were the most popular product across all regions, and the 27in 4K gaming monitors as well as the Samsung Charging cable pack came in either 2nd or 3rd  depending on each region
+- Bose Soundsport Headphones had appalling sales despite being $36 cheaper than the Apple Airpods Headphones, generating only $817 over the course of 4 years
+
+Refund Rates
+-	Refund rates were highest in 2019-2020, averaging 6-9%, then dropped to 4% in 2021 and 0% in 2022. This volatility suggests potential quality or customer satisfaction issues that need to be addressed.
+-	In 2019-2020, Macbook Airs and ThinkPad Laptops had very high refund rates (17-18%), accounting for over 50% of total refund value.
+-	Gaming monitors and Apple AirPods also had high refund volumes despite lower rates, comprising nearly 50% of refund value.
 
 ## Recommendations
 
@@ -65,11 +89,18 @@ Between loyalty members and non-loyalty members, there seems to be no difference
 A large proportion of Elist's customers come from the direct marketing channel, consisting of 82% of non loyalty members and 72% of loyalty members. The email marketing channel also drives a significant amount of traffic although much less than the direct marketing channel, consisting of 12% for non loyalty members and 24% of loyalty members
 
 ## Product Performance and Refund Rates
-### Overall Product Performance and Refund Rates
+### Overall Product Performance
 <img src="https://github.com/user-attachments/assets/311d51a2-02e1-4733-b0c0-208d05f3863e" alt="image" width="600" />
 
 Across all years, products such as the gaming monitor, Apple Airpods and Macbook Air was responsible for 85% of the absolute total sales revenue. While the iPhone had relatively high AOV, since it accounted for 0.3% of all orders it was unable to generate significant amounts of sales revenue due to the low demand for it. On the contrary, although the Charging Cable Pack accounted for 20.3% of all orders, the product was also unable to generate significant amounts of sales revenue due to its low price despite high sales volume.
 
+<img src="https://github.com/user-attachments/assets/b2632efc-a05f-4412-abf0-fca5b58e5b45" alt="image" width="550" />
+<img src="https://github.com/user-attachments/assets/b01f639c-fe92-450f-83a7-d6e9a2bc0060" alt="image" width="500" />
+
+Across all years and regions, the Apple Airpods Headphones was the most ordered. Moreover, the Samsung Charging Pack as well as the 4k 27in gaming monitor were always either the second or third most ordered depending on each region.
+
+
+### Product Refund Rates
 <img src="https://github.com/user-attachments/assets/9585b0cb-0eb9-4fca-bc1f-5013ec2d55e8" alt="image" width="500" />
 
 Overall, refund rates in 2019-2020 were highest with an average of 6% and 9%, then dips back down to 4% in 2021 and 0% in 2022. 
@@ -83,12 +114,6 @@ In 2021, refund rates start to drop, Macbook Airs and Thinkpad Laptops have a re
 In 2022, there are no refunds at all.
 
 Between 2019 – 2022, estimated refunds take approximately 9% of total revenue in 2019, 13% of total revenue in 2020, 11% of total revenue in 2021, and 0% of total revenue in 2022. This makes 2020, the year with the most estimated refund value in proportion to the total revenue.
-
-### Most popular products across each region
-<img src="https://github.com/user-attachments/assets/b2632efc-a05f-4412-abf0-fca5b58e5b45" alt="image" width="550" />
-<img src="https://github.com/user-attachments/assets/b01f639c-fe92-450f-83a7-d6e9a2bc0060" alt="image" width="500" />
-
-Across all years and regions, the Apple Airpods Headphones was the most ordered. Moreover, the Samsung Charging Pack as well as the 4k 27in gaming monitor were always either the second or third most ordered depending on each region.
 
 ### Refund Statistics of Apple Products
 <img src="https://github.com/user-attachments/assets/93cb3a07-a431-4ee8-b6ec-b8fd47dc42c5" alt="image" width="500" />
