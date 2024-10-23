@@ -10,7 +10,9 @@ Yearly Trends
 -	Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
 
 Seasonality 
--	There is generally an increase in sales during the summer months peaking in September and between holiday months of November and December. There is a steep drop in sales after the end of December and takes the biggest dip in February. Due to the pandemic, there is a steep increase in sales starting March 2020.
+-	There is generally an increase in sales during the summer months peaking in September and between holiday months of November and December.
+-	There is a steep drop in sales after the end of December and takes the biggest dip in February.
+-	Due to the pandemic, there is a steep increase in sales starting March 2020.
 
 Loyalty Program
 -	Loyalty program seems to be driving significant yearly growth with loyalty members driving 9% of total revenue in 2019, to about 55% of total revenue in 2022 
@@ -32,6 +34,20 @@ Refund Rates
 -	Gaming monitors and Apple AirPods also had high refund volumes despite lower rates, comprising nearly 50% of refund value.
 
 ## Recommendations
+Seasonal Promotions via effective Marketing Channels
+-	Capitalize on Christmas holiday season sales spikes by offering targeted post-holiday sales, discounts or bundle deals to encourage continued consumer spending and engagement to curb post-holiday slump. Promote offers aggressively with an emphasis on direct, email and affiliate marketing channels.
+-	Leverage steady increase in sales during the summer months by offering summer themed promotional sales, discount or product bundles such as portable chargers, headphones, and gaming monitors
+-	Experiment with different promotional strategies, such as limited-time flash sales or summer-long discounts, to maximize engagement and sales.
+
+More exclusive offers and benefits for loyalty program members
+-	Offer lower shipping costs and expedited delivery times for loyalty program members possibly through reaching a purchase goal or through a subscription service for stabler recurring revenue.
+-	Offer more frequent exclusive promotions, product bundles, or enhanced customer support to drive loyalty customer engagement with emphasis on direct and email marketing channels.
+-	Use customer segmentation and personalization to deliver tailored offers and experiences that resonate with different customer groups.
+
+Tweak Product offerings
+-	Since Apple Airpods and lightweight laptops generate majority of revenue while the Samsung charging pack generates high order counts, consider expanding the product catalog with products in a similar class such as other lightweight laptop brands 
+-	Consider removing Bose Soundsport Headphones from product mix and investigate reasons for their low popularity among customers. A possible reason might include the seamless integration of Apple Airpods Headphones with other Apple products that is already popular with Elist customers.
+-	Further research and identify the needs of various customer segments to optimize product offerings and possibly expand product catalog. Identifying complementary or emerging product categories and expanding product mix will help balance out seasonal fluctuations, reduce reliance on Apple-focused products and provide a more diversified revenue stream.
 
 
 # In Depth Analysis
