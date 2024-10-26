@@ -13,12 +13,14 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 
 <img src="https://github.com/user-attachments/assets/c241f463-fe53-4f0a-a4de-4a383859fb59" alt="image" width="200" />
 <img src="https://github.com/user-attachments/assets/0423e3ed-90ef-49a4-ac0f-b459f68ef8bf" alt="image" width="650" />
+
 From 2019 to 2022, Elist processed over 100K orders, generating $28 million in revenue with an average order value (AOV) of $260. Revenue surged by 162% in 2020 due to the pandemic, peaking at $10.2 million, but declined to $5 million by 2022, returning to near-2019 levels. This drop may indicate reduced screen time post-pandemic or a need for product refreshment.
 
 **Seasonality**
 
 <img src="https://github.com/user-attachments/assets/f2a6bb34-c7df-4102-8f8f-2836316faab1" alt="image" width="300" />
 <img src="https://github.com/user-attachments/assets/97b56984-c15a-40b4-8fe6-8feec7e98bd3" alt="image" width="350" />
+
 Sales trends show steady growth from February to May, with peaks in September and December, but a significant decline in January and February. Sales dropped sharply in October after September’s peak, reflecting typical post-holiday spending patterns.
 
 **Loyalty Program**
@@ -26,16 +28,19 @@ Sales trends show steady growth from February to May, with peaks in September an
 <img src="https://github.com/user-attachments/assets/e87de32f-1afb-4061-8f46-3a3c089d6c7d" alt="image" width="300" />
 <img src="https://github.com/user-attachments/assets/31fcd355-dbe8-4bd8-9590-92270eb89ff5" alt="image" width="420" />
 <img src="https://github.com/user-attachments/assets/f8780b90-e727-4059-abeb-21d64222d845" alt="image" width="400" />
+
 Loyalty members, making up 42.2% of customers, increasingly surpassed non-loyalty members in revenue and AOV by 2021. Despite non-loyalty members generating more total revenue, loyalty members showed higher AOV across popular products. They also made purchases quicker, taking 1.6 months on average compared to 2.3 months for non-members. Notably, there is no difference in delivery times between loyalty and non-loyalty members.
 
 **Product Performance and Refund Rates**
 
 <img src="https://github.com/user-attachments/assets/311d51a2-02e1-4733-b0c0-208d05f3863e" alt="image" width="600" />
+
 Key products like 27in 4K gaming monitors, Apple AirPods, and MacBook Airs generated 85% of sales revenue. While refund rates peaked at 9% in 2019-2020, they dropped to 0% by 2022. High refund rates for MacBook Airs and ThinkPads in earlier years indicate quality concerns, but overall refunds constituted 9-13% of total revenue until 2022.
 
 **Refund Statistics of Apple Products**
 
 <img src="https://github.com/user-attachments/assets/9585b0cb-0eb9-4fca-bc1f-5013ec2d55e8" alt="image" width="500" />
+
 The MacBook Air had the highest refund rates among Apple products, peaking at 18% in 2019. It accounted for over half of the total estimated refund value across Apple products, while the iPhone, despite its high AOV, had low refund impact due to low order volume.
 
 ## Recommendations
