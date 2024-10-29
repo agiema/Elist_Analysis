@@ -104,3 +104,27 @@ JOIN core.orders AS o
 ON c.id = o.customer_id
 GROUP BY 1;
 
+-- What were the sales revenue for each marketing channel?
+
+SELECT COALESCE(c.marketing_channel, 'guest purchase') AS marketing_channel,
+        ROUND(SUM(o.usd_price),2) AS sales_revenue,
+        ROUND(AVG(o.usd_price),2) AS AOV,
+        COUNT(o.id) AS order_count
+FROM core.orders AS o
+LEFT JOIN core.customers AS c
+ON o.customer_id = c.id
+GROUP BY 1
+ORDER BY 2 DESC, 3 DESC, 4 DESC
+
+-- How do the time to deliver differ between loyalty customers vs. non-loyalty customers?
+
+SELECT CASE WHEN c.loyalty_program = 0 THEN 'Non Loyalty'
+      ELSE 'Loyalty' END AS loyalty_program,
+      ROUND(AVG(DATE_DIFF(os.ship_ts, os.purchase_ts, day)),1) AS days_to_ship,
+      ROUND(AVG(DATE_DIFF(os.delivery_ts, os.ship_ts, day)),1) AS days_to_deliver,
+FROM core.order_status AS os
+LEFT JOIN core.orders AS o
+ON os.order_id = o.id
+LEFT JOIN core.customers AS c
+ON o.customer_id = c.id
+GROUP BY 1;
