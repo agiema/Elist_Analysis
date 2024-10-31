@@ -54,7 +54,7 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 <img src="https://github.com/user-attachments/assets/9585b0cb-0eb9-4fca-bc1f-5013ec2d55e8" alt="image" width="500" />
 
 - **Refund rates peaked at 9% in 2019-2020** then dropped to 0% by 2022.
-- **High refund rates for MacBook Airs and ThinkPads in earlier years** indicate quality concerns, but overall refunds constituted **9-13% of total revenue until 2022**.
+- **High refund rates for MacBook Airs and ThinkPads in earlier years** indicate quality concerns, but **overall refunds constituted 9-13% of total revenue until 2022**.
 - The **MacBook Air had the highest refund rates among Apple products**, peaking at 18% in 2019. It accounted for over half of the total estimated refund value across Apple products.
 - The **iPhone**, despite its high AOV, had **low refund impact due to low order volume**.
 - **Bose Soundsport Headphones** had appalling sales generating nearly **0% of total sales revenue** and accounting **0% of percentage total orders**.
