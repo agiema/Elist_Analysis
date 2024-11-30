@@ -48,6 +48,7 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 - **27in 4k gaming monitors, and Apple AirPods headphones accounted for 67% of total orders**.
 - **MacBook Air Laptop and ThinkPad Laptop generated 34% of total revenue** due to high AOV despite low percentage of total orders.
 - **Samsung Charging Cable pack accounted for 20% of total orders** despite generating only **2% of total revenue**.
+- **Bose Soundsport Headphones** had appalling sales generating nearly **0% of total sales revenue** and accounting **0% of percentage total orders**.
 
 ### Refund Rates
 
@@ -57,7 +58,6 @@ Founded in 2018, Elist is an e-commerce company that sells popular electronics p
 - **High refund rates for MacBook Airs and ThinkPads in earlier years** indicate quality concerns, but **overall refunds constituted 9-13% of total revenue until 2022**.
 - The **MacBook Air had the highest refund rates among Apple products**, peaking at 18% in 2019. It accounted for over half of the total estimated refund value across Apple products.
 - The **iPhone**, despite its high AOV, had **low refund impact due to low order volume**.
-- **Bose Soundsport Headphones** had appalling sales generating nearly **0% of total sales revenue** and accounting **0% of percentage total orders**.
 
 ## Recommendations
 **Seasonal Promotions via effective Marketing Channels**
